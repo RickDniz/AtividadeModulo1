@@ -1,6 +1,6 @@
-#Atividades Modulo 1
+# #Atividades Modulo 1
 
-# #(01) Crie uma variável chamada idade que armazene sua idade e mostre o valor dela na tela
+#(01) Crie uma variável chamada idade que armazene sua idade e mostre o valor dela na tela
 idade = 25 
 print(idade)
 
